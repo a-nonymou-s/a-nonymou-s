@@ -8,8 +8,8 @@
 
 ### 🚀 What I'm Building
 
-- **[ENTITLED](#)** – An event management platform for B2B businesses and service providers  
-- **[SuppliFlex](#)** – A digital supply chain solution for small & medium-sized businesses
+- **[ENTITLED](https://be-entitled.com/)** – An event management platform for B2B businesses and service providers  
+- **[SuppliFlex](https://suppliflex.tech/)** – A digital supply chain solution for small & medium-sized businesses
 
 ---
 
