@@ -9,7 +9,7 @@
 ### 🚀 What I'm Building
 
 - **[ENTITLED](https://be-entitled.com/)** – An event management platform for B2B businesses and service providers  
-- **[SuppliFlex](https://suppliflex.tech/)** – A digital supply chain solution for small & medium-sized businesses
+- **[SUPPLIFLEX](https://suppliflex.tech/)** – A digital supply chain solution for small & medium-sized businesses
 
 ---
 
