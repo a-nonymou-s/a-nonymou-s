@@ -1,10 +1,53 @@
-- 👋 Hi, I’m ANONY.
-- 👀 I’m interested in Cyber Security , Development , Problem Solving And Art.
-- 🌱 I’m currently expanding my knowledge in all the above fields.
-- 💞️ I’m looking to collaborate on open source project.
-- 📫 How to reach me (I'm unreachable friend !)
+<h1 align="center">Hi, I'm Yassine Rahmani 👋</h1>
 
-<!---
-a-nonymou-s/a-nonymou-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🧑‍💻 Founder | 🚀 Startup Builder | 🎓 Business Student | 💡 Lifelong Learner
+</p>
+
+---
+
+### 🚀 What I'm Building
+
+- **[ENTITLED](#)** – An event management platform for B2B businesses and service providers  
+- **[SuppliFlex](#)** – A digital supply chain solution for small & medium-sized businesses
+
+---
+
+### 👨‍💻 Tech Stack
+
+- **Front-End:** React.js, Next.js, Tailwind CSS, TypeScript  
+- **Back-End:** Node.js, Express.js, MongoDB  
+- **Tools:** GitHub Actions, PM2, AWS EC2, Amazon S3, ClickUp, Slack  
+- **Other:** Product Management, Agile, MVP Development, Financial Modeling
+
+---
+
+### 📚 What I Write About (on [Medium](https://y-rahmani.medium.com/))
+
+- Startup Lessons from the Trenches 🚀  
+- Building MVPs & Leading Remote Dev Teams 👨‍💻  
+- Product Management for First-Time Founders 📦  
+- Financial Dashboards & Fundraising Tools 💰  
+- Staying Productive as a Student-Founder 🎯
+
+---
+
+### 📈 Current Goals
+
+- Launching MVPs for both ENTITLED & SuppliFlex  
+- Writing 2 Medium posts per week to grow an audience of 10K  
+- Connecting with fellow builders, investors, and learners worldwide
+
+---
+
+### 🔗 Let's Connect
+
+- 🌍 [LinkedIn](https://www.linkedin.com/in/yassine-rahmani-a39711247/)  
+- 📝 [Medium](https://y-rahmani.medium.com/)  
+- 📩 Reach out for collabs, chats, or feedback
+
+---
+
+<p align="center">
+  Built with ❤️ from Morocco · #BuildInPublic
+</p>
